@@ -1,0 +1,6 @@
+{
+  "appId": "com.formfit.app",
+  "appName": "FormFit",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}

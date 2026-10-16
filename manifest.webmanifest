@@ -1,0 +1,9 @@
+{
+  "name": "FormFit - Form Photo Fitter",
+  "short_name": "FormFit",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f4f7fb",
+  "theme_color": "#102a43",
+  "description": "Fit portrait photos and signatures into form boxes."
+}
